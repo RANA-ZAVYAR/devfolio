@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Years = () => {
+const about = () => {
   return (
-    <div>Years</div>
+    <div>aboutfdvfdbfg</div>
   )
 }
 
-export default Years
+export default about
